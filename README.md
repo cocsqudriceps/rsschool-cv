@@ -1,1 +1,1 @@
-# https://cocsqudriceps.github.io/rsschool-cv/cv
+# https://cocsqudriceps.github.io/rsschool-cv/
